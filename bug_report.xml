@@ -1,1 +1,13 @@
-
+<BUG_REPORTS>
+  <SUMMARY>The [Market Trading Hours] section is displayed in English after changing any language</SUMMARY>
+  <SEVERITY>Minor</SEVERITY>
+  <STR>
+  <STEP>Navigate to capital.com </STEP>
+  <STEP>Select any language </STEP>
+  <STEP>Scroll to the [Карта активности рынков] section on the main page </STEP>
+  <STEP>Click on the any \"Партнерская программа\" button </STEP>
+  <STEP>Pay attention to the [Market Trading Hours] section</STEP>
+  </STR>
+  <EXPECTED_RESULT>The [Market Trading Hours] section is displayed in the selected language</EXPECTED_RESULT>
+  <ACTUAL_RESULT>The [Market Trading Hours] section is displayed in English after changing any language</ACTUAL_RESULT>
+</BUG_REPORTS>
